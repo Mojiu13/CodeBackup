@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "1458b9c9820e2596",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9d8ed7f340eec9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java_web/jsp写java代码.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba45d4f816e9efd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "635970dc72444f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5042ed5a694df2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a44b70f523a35328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4e17706ff0757a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3390a6ffdf526a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb86f1a7223e906e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java_web/jsp写java代码.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aabcc3a6b53c78d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java_web/jsp写java代码.md"
+              }
+            }
+          },
+          {
+            "id": "062cf5e789ae0e64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java_web/jsp写java代码.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b9d8ed7f340eec9",
+  "lastOpenFiles": [
+    "java_web/jsp写java代码.md",
+    "java_web/未命名.md",
+    "java/sql(jdbc).md",
+    "java_web/http方法：get和post.md",
+    "Pasted image 20210902113230.png",
+    "java/面向对象和面向过程.md",
+    "java/数据类型.md",
+    "java/java基础.md",
+    "java/sql.md",
+    "java/未命名.md"
+  ]
+}

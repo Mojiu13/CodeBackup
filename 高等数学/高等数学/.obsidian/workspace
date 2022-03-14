@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "7d8549ba5488667a",
+    "type": "split",
+    "children": [
+      {
+        "id": "515965b2b50e4ee3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "函数,图像和直线/定义域.md",
+            "mode": "source"
+          }
+        },
+        "group": "92ee31110711cbda"
+      },
+      {
+        "id": "8a2c2dd38ebac4bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "函数,图像和直线/定义域.md",
+            "mode": "preview"
+          }
+        },
+        "group": "92ee31110711cbda"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab2a11752a1923da",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d412afdb1dbfa7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b14bd92f31919e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a94d2830f6ad21a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b9f5848e0695e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78158cfbc19d7be3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33469f00291bf346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "函数,图像和直线/定义域.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8a2c2dd38ebac4bd",
+  "lastOpenFiles": [
+    "函数,图像和直线/定义域.md",
+    "函数,图像和直线/1.1函数.md",
+    "函数,图像和直线/未命名.md"
+  ]
+}

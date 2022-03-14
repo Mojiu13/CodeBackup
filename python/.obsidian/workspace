@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "62b57830ab54f19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ee8c37dbca968c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a439e7f1355cec1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8cf56aa90feed47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a123df64aef4105e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84fd4b8b283f8e5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "01115055bca1a5e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "632d82779b081227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1a2caac0a96346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "22ee8c37dbca968c",
+  "lastOpenFiles": [
+    "未命名.md"
+  ]
+}

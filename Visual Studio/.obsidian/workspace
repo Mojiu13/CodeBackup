@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "deff72f31e220dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1168ac6716f3b136",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "报错丢失VCRUNTIME140D.dll.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e76ca76840579f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2dc2767981bcd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230b5f4a22695290",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0015712df4a2e94d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4be7273ec29f5183",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e8fc3bb2cc70ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4e64648e170490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "报错丢失VCRUNTIME140D.dll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1168ac6716f3b136",
+  "lastOpenFiles": [
+    "报错丢失VCRUNTIME140D.dll.md",
+    "未命名.md"
+  ]
+}

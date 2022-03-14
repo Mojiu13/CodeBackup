@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "02edd52ca3cc89dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e5cff323030da78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "文献/文献引用规范格式.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09b9481c6ceb1887",
+    "type": "split",
+    "children": [
+      {
+        "id": "0733f3afe9d0443c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf3f3edd5877047",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e790d1421463c6cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ac5c82bd207325a",
+    "type": "split",
+    "children": [
+      {
+        "id": "763df6e46792481e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ef6345f6893d5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文献/文献引用规范格式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e5cff323030da78",
+  "lastOpenFiles": [
+    "文献/文献引用规范格式.md"
+  ]
+}

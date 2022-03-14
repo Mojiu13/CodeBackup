@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "8ea01402f000aadf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9562157414521f96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学生成绩管理系统.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd2d23691436c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "187b9056a894bc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d71c8cb1622c7bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9ee080f59b3b538",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e5f226381388098",
+    "type": "split",
+    "children": [
+      {
+        "id": "70bdfc1f116f380c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1242057b14a8b6ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学生成绩管理系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9562157414521f96",
+  "lastOpenFiles": [
+    "学生成绩管理系统.md",
+    "未命名.md"
+  ]
+}
