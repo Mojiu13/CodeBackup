@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目/学生成绩管理系统.md",
+            "file": "高等数学/高等数学/导数/三角函数的导数.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/学生成绩管理系统.md",
+                "file": "高等数学/高等数学/导数/三角函数的导数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "939f3543b2426b86",
   "lastOpenFiles": [
+    "高等数学/高等数学/导数/三角函数的导数.md",
     "项目/学生成绩管理系统.md"
   ]
 }
