@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "939f3543b2426b86",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
-            "mode": "source",
-            "source": false
+        "id": "87926353db2f1e5c",
+        "type": "split",
+        "children": [
+          {
+            "id": "939f3543b2426b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d7cfbc62a7f7a3",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,14 +105,14 @@
   "active": "939f3543b2426b86",
   "lastOpenFiles": [
     "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
+    "未命名思维导图 1.md",
+    "未命名思维导图.md",
+    "未命名思维导图 3.md",
+    "未命名思维导图 2.md",
     "小知识/obdsidian/如何安装本地插件.md",
     "专业课/数字图像处理/作业/作业一.md",
     "专业课/数字图像处理/作业/附件/未命名.md",
     "something/未命名.md",
-    "专业课/数字图像处理/attachments/Pasted image 20220410210510.png",
-    "专业课/数字图像处理/attachments/Pasted image 20220410210434.png",
-    "专业课/数字图像处理/rgb与色调、饱和度、亮度的关系.md",
-    "高等数学/高等数学/导数/三角函数的导数.md",
-    "项目/学生成绩管理系统.md"
+    "专业课/数字图像处理/attachments/Pasted image 20220410210510.png"
   ]
 }
