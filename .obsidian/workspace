@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 208
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -91,6 +90,7 @@
   "active": "939f3543b2426b86",
   "lastOpenFiles": [
     "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
+    "小知识/obdsidian/如何安装本地插件.md",
     "专业课/数字图像处理/作业/作业一.md",
     "专业课/数字图像处理/作业/附件/未命名.md",
     "something/未命名.md",
