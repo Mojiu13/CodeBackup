@@ -7,8 +7,12 @@
         "id": "939f3543b2426b86",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "专业课/数字图像处理/课程设计/导论.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "专业课/数字图像处理/课程设计/导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +90,8 @@
   },
   "active": "939f3543b2426b86",
   "lastOpenFiles": [
+    "专业课/数字图像处理/课程设计/导论.md",
+    "专业课/数字图像处理/课程设计/前期准备.md",
     "项目/学生成绩管理系统.md",
     "daily/2022-05-04.md",
     "2022-05-04.md",
@@ -91,8 +99,6 @@
     "未命名思维导图 1.md",
     "未命名思维导图.md",
     "未命名思维导图 3.md",
-    "未命名思维导图 2.md",
-    "小知识/obdsidian/如何安装本地插件.md",
-    "专业课/数字图像处理/作业/作业一.md"
+    "未命名思维导图 2.md"
   ]
 }
