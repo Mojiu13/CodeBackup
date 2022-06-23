@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-22.md",
+            "file": "专业课/数字图像处理/期末复习/mooc.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-22.md",
+                "file": "专业课/数字图像处理/期末复习/mooc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "8ec95185e5df7349",
   "lastOpenFiles": [
+    "专业课/数字图像处理/期末复习/mooc.md",
     "daily/2022-06-22.md",
     "专业课/数字图像处理/课程ppt/数字图像处理.md",
     "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
@@ -97,7 +99,6 @@
     "Java/java/sql(jdbc).md",
     "高等数学/高等数学/函数,图像和直线/1.1函数.md",
     "daily/2022-06-04.md",
-    "专业课/数字图像处理/课程设计/导论.md",
-    "专业课/数字图像处理/课程设计/前期准备.md"
+    "专业课/数字图像处理/课程设计/导论.md"
   ]
 }
