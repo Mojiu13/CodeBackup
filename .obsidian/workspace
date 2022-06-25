@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "专业课/数字图像处理/期末复习/mooc.md",
+            "file": "专业课/信息安全/头歌实验.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 208
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/数字图像处理/期末复习/mooc.md",
+                "file": "专业课/信息安全/头歌实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "8adbbc7afb9a1cc7",
   "lastOpenFiles": [
+    "专业课/信息安全/头歌实验.md",
     "专业课/数字图像处理/期末复习/mooc.md",
     "daily/2022-06-22.md",
     "专业课/数字图像处理/课程ppt/数字图像处理.md",
@@ -98,7 +98,6 @@
     "专业课/经济学/期末复习范围.md",
     "Java/java/sql(jdbc).md",
     "高等数学/高等数学/函数,图像和直线/1.1函数.md",
-    "daily/2022-06-04.md",
-    "专业课/数字图像处理/课程设计/导论.md"
+    "daily/2022-06-04.md"
   ]
 }
