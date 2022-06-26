@@ -7,8 +7,12 @@
         "id": "8adbbc7afb9a1cc7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "专业课/信息安全/头歌实验/拓展ACL配置.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "专业课/信息安全/头歌实验/拓展ACL配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "8adbbc7afb9a1cc7",
   "lastOpenFiles": [
+    "专业课/信息安全/头歌实验/拓展ACL配置.md",
+    "专业课/信息安全/头歌实验/标准acl.md",
     "专业课/信息安全/头歌实验.md",
     "专业课/数字图像处理/期末复习/mooc.md",
     "daily/2022-06-22.md",
@@ -91,8 +98,6 @@
     "专业课/数字图像处理/课程ppt/第一章 数字图像处理基础.md",
     "VSC/Increment Selection/递减数字.md",
     "专业课/经济学/期末复习范围.md",
-    "Java/java/sql(jdbc).md",
-    "高等数学/高等数学/函数,图像和直线/1.1函数.md",
-    "daily/2022-06-04.md"
+    "Java/java/sql(jdbc).md"
   ]
 }
