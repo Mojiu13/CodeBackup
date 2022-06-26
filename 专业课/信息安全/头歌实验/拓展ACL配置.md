@@ -1,3 +1,23 @@
+router rip
+version 2
+no auto-summary
+network 192.168.23.0
+network 192.168.12.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hostname R1
 interface FastEthernet0/0
 ip address 10.1.1.1 255.255.255.0
