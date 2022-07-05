@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-07-05.md",
+            "file": "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-07-05.md",
+                "file": "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a38123d4f763319f",
   "lastOpenFiles": [
+    "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
     "daily/2022-07-05.md",
     "专业课/未命名.md",
     "专业课/信息安全/期末大题答案.md",
@@ -97,7 +98,6 @@
     "专业课/嵌入式系统/知识点/stm32命名规范总结.md",
     "专业课/嵌入式系统/期末复习.md",
     "专业课/嵌入式系统/attachments/Pasted image 20220628121917.png",
-    "专业课/嵌入式系统/attachments/]GWZF8Q@$QK0ORE%`52)YTM.png",
-    "专业课/信息安全/头歌实验/静态nat.md"
+    "专业课/嵌入式系统/attachments/]GWZF8Q@$QK0ORE%`52)YTM.png"
   ]
 }
