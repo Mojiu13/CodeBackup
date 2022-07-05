@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8adbbc7afb9a1cc7",
+        "id": "a38123d4f763319f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "专业课/信息安全/期末大题答案.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 171
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/信息安全/期末大题答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8adbbc7afb9a1cc7",
+  "active": "a38123d4f763319f",
   "lastOpenFiles": [
+    "专业课/未命名.md",
     "专业课/信息安全/期末大题答案.md",
     "专业课/信息安全/期末复习大题.md",
     "专业课/嵌入式系统/嵌入式总复习.md",
@@ -98,7 +93,6 @@
     "专业课/嵌入式系统/attachments/Pasted image 20220628121917.png",
     "专业课/嵌入式系统/attachments/]GWZF8Q@$QK0ORE%`52)YTM.png",
     "专业课/信息安全/头歌实验/静态nat.md",
-    "专业课/信息安全/头歌实验/静态nat配置.md",
-    "专业课/信息安全/头歌实验/拓展ACL配置.md"
+    "专业课/信息安全/头歌实验/静态nat配置.md"
   ]
 }
