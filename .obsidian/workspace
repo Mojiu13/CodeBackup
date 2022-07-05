@@ -7,8 +7,12 @@
         "id": "a38123d4f763319f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-07-05.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2022-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "a38123d4f763319f",
   "lastOpenFiles": [
+    "daily/2022-07-05.md",
     "专业课/未命名.md",
     "专业课/信息安全/期末大题答案.md",
     "专业课/信息安全/期末复习大题.md",
@@ -92,7 +98,6 @@
     "专业课/嵌入式系统/期末复习.md",
     "专业课/嵌入式系统/attachments/Pasted image 20220628121917.png",
     "专业课/嵌入式系统/attachments/]GWZF8Q@$QK0ORE%`52)YTM.png",
-    "专业课/信息安全/头歌实验/静态nat.md",
-    "专业课/信息安全/头歌实验/静态nat配置.md"
+    "专业课/信息安全/头歌实验/静态nat.md"
   ]
 }
