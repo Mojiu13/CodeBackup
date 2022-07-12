@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a38123d4f763319f",
+        "id": "680ec9f3d17d7970",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
+            "file": "专业课/人工智能/学习笔记/第二章 知识表示.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
+                "file": "专业课/人工智能/学习笔记/第二章 知识表示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a38123d4f763319f",
+  "active": "680ec9f3d17d7970",
   "lastOpenFiles": [
+    "专业课/人工智能/学习笔记/第二章 知识表示.md",
+    "小知识/锻炼/锻炼脖颈.md",
+    "小知识/未命名.md",
     "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
     "daily/2022-07-05.md",
     "专业课/未命名.md",
     "专业课/信息安全/期末大题答案.md",
     "专业课/信息安全/期末复习大题.md",
     "专业课/嵌入式系统/嵌入式总复习.md",
-    "专业课/嵌入式系统/知识点/stm32命名规范总结.md",
-    "专业课/嵌入式系统/期末复习.md",
-    "专业课/嵌入式系统/attachments/Pasted image 20220628121917.png",
-    "专业课/嵌入式系统/attachments/]GWZF8Q@$QK0ORE%`52)YTM.png"
+    "专业课/嵌入式系统/知识点/stm32命名规范总结.md"
   ]
 }
