@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "专业课/人工智能/学习笔记/第二章 知识表示.md",
+            "file": "小知识/obdsidian/如何安装本地插件.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171,
-    "collapsed": true
+    "width": 171
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/人工智能/学习笔记/第二章 知识表示.md",
+                "file": "小知识/obdsidian/如何安装本地插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "680ec9f3d17d7970",
   "lastOpenFiles": [
+    "小知识/obdsidian/如何安装本地插件.md",
     "专业课/人工智能/学习笔记/第二章 知识表示.md",
     "小知识/锻炼/锻炼脖颈.md",
     "小知识/未命名.md",
@@ -98,7 +98,6 @@
     "专业课/未命名.md",
     "专业课/信息安全/期末大题答案.md",
     "专业课/信息安全/期末复习大题.md",
-    "专业课/嵌入式系统/嵌入式总复习.md",
-    "专业课/嵌入式系统/知识点/stm32命名规范总结.md"
+    "专业课/嵌入式系统/嵌入式总复习.md"
   ]
 }
