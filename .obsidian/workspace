@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "考研/计算机择校.md",
+            "file": "考研/政治/政治.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 171,
+    "collapsed": true
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/计算机择校.md",
+                "file": "考研/政治/政治.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +90,7 @@
   },
   "active": "680ec9f3d17d7970",
   "lastOpenFiles": [
-    "考研/计算机择校.md",
+    "考研/择校/计算机择校.md",
     "小知识/obdsidian/如何安装本地插件.md",
     "专业课/人工智能/学习笔记/第二章 知识表示.md",
     "小知识/锻炼/锻炼脖颈.md",
