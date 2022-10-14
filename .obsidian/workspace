@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
+            "file": "考研/高等数学/高等数学/指导文件/指导.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
+                "file": "考研/高等数学/高等数学/指导文件/指导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "680ec9f3d17d7970",
   "lastOpenFiles": [
-    "[calculus.md",
     "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
+    "[calculus.md",
     "ss/未命名.md",
     "考研/高等数学/高等数学/指导文件/指导.md",
     "绝对理性/健身/未命名.md",
