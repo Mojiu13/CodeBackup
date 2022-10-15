@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "b1588d7b5bc3f1b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "861779f048a8e842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b33ed69accaccfa0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddae1a72cd8a21a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55e108b32fa26a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24fbd96613c0be19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5145219f8073732e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "e4d8ea4758eae2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc6a65ff36967a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db46debbe3b081c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b33ed69accaccfa0",
+  "lastOpenFiles": [
+    "ss/未命名.md",
+    "考研/高等数学/高等数学/指导文件/指导.md",
+    "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
+    "[calculus.md",
+    "绝对理性/健身/未命名.md",
+    "绝对理性/游戏/关于竞技类游戏思考.md",
+    "考研/政治/政治.md",
+    "专业课/人工智能/期末.md",
+    "人生/思考/父母.md",
+    "人生/思考/哲学与世界观.md"
+  ]
+}
