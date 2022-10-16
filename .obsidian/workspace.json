@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "账户/steam/steam外区账户.md",
+                "file": "专业课/人工智能/期末.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "账户/steam/steam外区账户.md",
+                "file": "专业课/人工智能/期末.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b33ed69accaccfa0",
+  "active": "24fbd96613c0be19",
   "lastOpenFiles": [
+    "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
+    "专业课/人工智能/attachments/Pasted image 20221001175433.png",
+    "专业课/人工智能/attachments/Pasted image 20221001175143.png",
+    "专业课/人工智能/attachments/Pasted image 20221001165047.png",
+    "专业课/人工智能/attachments/Pasted image 20221001164957.png",
+    "专业课/人工智能/attachments/Pasted image 20221001164537.png",
+    "账户/steam/steam外区账户.md",
     "ss/未命名.md",
     "考研/高等数学/高等数学/指导文件/指导.md",
-    "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
-    "[calculus.md",
-    "绝对理性/健身/未命名.md",
-    "绝对理性/游戏/关于竞技类游戏思考.md",
-    "考研/政治/政治.md",
-    "专业课/人工智能/期末.md",
-    "人生/思考/父母.md",
-    "人生/思考/哲学与世界观.md"
+    "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md"
   ]
 }
