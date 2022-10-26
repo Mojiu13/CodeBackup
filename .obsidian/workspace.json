@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "861779f048a8e842",
+        "id": "6bdc8d6634cecb40",
         "type": "tabs",
         "children": [
           {
-            "id": "b33ed69accaccfa0",
+            "id": "897501e26078fc4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ss/未命名.md",
+                "file": "daily/2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ss/未命名.md",
+                "file": "daily/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b33ed69accaccfa0",
+  "active": "897501e26078fc4c",
   "lastOpenFiles": [
+    "ss/未命名.md",
     "专业课/人工智能/期末.md",
     "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
     "考研/择校/计算机择校.md",
@@ -108,7 +109,6 @@
     "考研/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
     "绝对理性/游戏/关于竞技类游戏思考.md",
     "绝对理性/健身/未命名.md",
-    "专业课/人工智能/学习笔记/第一章 人工智能绪论.md",
-    "专业课/人工智能/attachments/Pasted image 20221001175433.png"
+    "专业课/人工智能/学习笔记/第一章 人工智能绪论.md"
   ]
 }
