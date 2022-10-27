@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-25.md",
+                "file": "未命名 1123.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aec5acd5f7fce283",
+            "id": "58d0801f8d336427",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "未命名 1123.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.0.3"
               }
             }
           }
@@ -108,12 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "aec5acd5f7fce283",
+  "active": "58d0801f8d336427",
   "lastOpenFiles": [
     "daily/2022-10-25.md",
+    "未命名 1123.md",
     "ss/未命名.md",
     "专业课/人工智能/期末.md",
     "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
@@ -121,7 +117,6 @@
     "考研/高等数学/高等数学/不等式.md",
     "考研/高等数学/高等数学/七种未定式.md",
     "考研/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
-    "绝对理性/游戏/关于竞技类游戏思考.md",
-    "绝对理性/健身/未命名.md"
+    "绝对理性/游戏/关于竞技类游戏思考.md"
   ]
 }
