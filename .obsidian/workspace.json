@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6bdc8d6634cecb40",
+        "id": "cb1fc63e41ff0101",
         "type": "tabs",
         "children": [
           {
-            "id": "897501e26078fc4c",
+            "id": "bf291cc437feb984",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1123.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58d0801f8d336427",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58d0801f8d336427",
+  "active": "bf291cc437feb984",
   "lastOpenFiles": [
-    "daily/2022-10-25.md",
     "未命名 1123.md",
+    "未命名.md",
+    "daily/2022-10-25.md",
     "ss/未命名.md",
     "专业课/人工智能/期末.md",
     "考研/高等数学/高等数学/思考/关于正无穷以及极限是否存在.md",
     "考研/择校/计算机择校.md",
     "考研/高等数学/高等数学/不等式.md",
     "考研/高等数学/高等数学/七种未定式.md",
-    "考研/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
-    "绝对理性/游戏/关于竞技类游戏思考.md"
+    "考研/高等数学/高等数学/attachments/Pasted image 20220921163714.png"
   ]
 }
