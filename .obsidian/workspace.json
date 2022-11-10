@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c678c240ab5eaf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/专业课/计算机组成原理/数据表示和运算/进制英文释义.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/专业课/计算机组成原理/数据表示和运算/进制英文释义.md",
+                "file": "考研/专业课/计算机组成原理/计算机系统概述/计算机工作过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +95,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c678c240ab5eaf6",
+  "active": "6a9e32855134a8c7",
   "lastOpenFiles": [
+    "考研/专业课/计算机组成原理/数据表示和运算/进制英文释义.md",
+    "考研/专业课/计算机组成原理/数据表示和运算/码制转换.md",
     "考研/专业课/计算机组成原理/计算机系统概述/计算机工作过程.md",
     "考研/专业课/计算机组成原理/attachments/Snipaste_2022-11-05_22-10-52.jpg",
     "考研/专业课/计算机组成原理/attachments/Snipaste_2022-11-05_22-08-58.jpg",
@@ -117,8 +106,6 @@
     "考研/指导文件/指导.md",
     "Untitled.md",
     "[calculus.md",
-    "未命名.md",
-    "考研/择校/计算机择校.md",
-    "考研/政治/attachments/Pasted image 20220729103650.png"
+    "未命名.md"
   ]
 }
