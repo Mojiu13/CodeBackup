@@ -23,8 +23,12 @@
             "id": "f1ed2350de782ac3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "考研/专业课/计算机组成原理/2.1.7.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -86,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "考研/专业课/计算机组成原理/2.1.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
