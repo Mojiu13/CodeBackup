@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4607a60184c052b5",
+        "id": "4d5a6553944c26d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9e32855134a8c7",
+            "id": "f552d26405c5f229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人生积累/电影/0002律政俏佳人.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a21288067fdb9c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/毕业设计/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/毕业设计/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,16 +90,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a21288067fdb9c6",
+  "active": "f552d26405c5f229",
   "lastOpenFiles": [
-    "考研/指导文件/指导.md",
     "人生积累/电影/0002律政俏佳人.md",
+    "项目/毕业设计/未命名.md",
+    "考研/指导文件/指导.md",
     "人生积累/电影/0001 重返十七岁.md",
     "人生积累/绝对理性/游戏/关于竞技类游戏思考.md",
     "人生积累/绝对理性/健身/未命名.md",
     "小知识/ss/未命名.md",
     "computer science/some website.md",
-    "项目/毕业设计/未命名.md",
     "daily/2022-12-07.md",
     "daily/2022-12-04.md"
   ]
