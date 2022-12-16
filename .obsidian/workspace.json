@@ -11,11 +11,28 @@
             "id": "f552d26405c5f229",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "想法/openai的历史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a4465026b69802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "想法/疫情地图+三年疫情.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "想法/疫情地图+三年疫情.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f552d26405c5f229",
+  "active": "f0a4465026b69802",
   "lastOpenFiles": [
+    "想法/openai的历史.md",
     "人生积累/电影/0002律政俏佳人.md",
     "项目/毕业设计/未命名.md",
     "考研/指导文件/指导.md",
@@ -100,7 +119,6 @@
     "人生积累/绝对理性/健身/未命名.md",
     "小知识/ss/未命名.md",
     "computer science/some website.md",
-    "daily/2022-12-07.md",
-    "daily/2022-12-04.md"
+    "daily/2022-12-07.md"
   ]
 }
