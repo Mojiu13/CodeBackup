@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "21e05889e4e876c6",
+            "id": "f7b2f877c4c58533",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "daily/A.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/毕业设计/未命名.md",
+                "file": "daily/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +130,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "21e05889e4e876c6",
+  "active": "f7b2f877c4c58533",
   "lastOpenFiles": [
+    "项目/毕业设计/未命名.md",
     "小知识/ss/未命名.md",
     "考研/指导文件/指导/指导2.md",
     "考研/指导文件/指导/指导1.md",
@@ -138,7 +141,6 @@
     "daily/2022-12-17（在考研前放弃了考研）.md",
     "想法demo/openai的历史.md",
     "人生积累/绝对理性/游戏/关于竞技类游戏思考.md",
-    "人生积累/绝对理性/健身/未命名.md",
-    "想法demo/疫情地图+三年疫情.md"
+    "人生积累/绝对理性/健身/未命名.md"
   ]
 }
