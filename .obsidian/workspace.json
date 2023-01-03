@@ -23,9 +23,11 @@
             "id": "88e0af60a77a93a3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "daily/1A考研.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/1A.md",
+                "file": "daily/1A考研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +120,8 @@
   },
   "active": "88e0af60a77a93a3",
   "lastOpenFiles": [
-    "daily/1A考研.md",
     "daily/1A.md",
+    "daily/1A考研.md",
     "考研/指导文件/指导/指导1.md",
     "项目/毕业设计/未命名.md",
     "小知识/ss/未命名.md",
