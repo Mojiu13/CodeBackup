@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd30820d209bb18",
+        "id": "5253553d65b3bb43",
         "type": "tabs",
         "children": [
           {
-            "id": "25cab7be412268e0",
+            "id": "bf7e8750ca0702b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,11 +121,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,17 +143,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "24fbd96613c0be19",
+  "active": "cb5720604717ee7f",
   "lastOpenFiles": [
+    "daily/2022-09-28（人生思考）.md",
+    "daily/2022-10-25.md",
+    "未命名.canvas",
     "Japen.md",
     "kkk.md",
-    "未命名.canvas",
     "考研/考试课程/高等数学/高等数学/七种未定式.md",
     "想法demo/疫情地图+三年疫情.md",
     "computer science/专业课/计算机图形学/绪论/参数法.md",
     "computer science/专业课/计算机图形学/绪论/图形.md",
-    "daily/2022-06-22.md",
-    "考研/考试课程/专业课/计算机组成原理/数据表示和运算/码制转换.md",
-    "computer science/专业课/人工智能/期末.md"
+    "daily/2022-06-22.md"
   ]
 }
