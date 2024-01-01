@@ -1,5 +1,12 @@
 [
-  "ProxyGithub",
   "obsidian-markmind",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "periodic-notes",
+  "obsidian-projects",
+  "privacy-glasses",
+  "calendar",
+  "obsidian-kanban",
+  "dataview",
+  "remotely-save"
 ]
