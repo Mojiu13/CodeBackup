@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "近期日程安排/工作计划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "近期日程安排/工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "近期日程安排/工作计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "近期日程安排/工作计划.md"
               }
             }
           },
@@ -183,8 +183,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "24fbd96613c0be19",
+  "active": "a6912e52787ba491",
   "lastOpenFiles": [
+    "computer science/C++/c++ primer/未命名.md",
+    "近期日程安排/工作计划.md",
+    "近期日程安排",
+    "computer science/some website.md",
+    "computer science/C++/c++ primer",
+    "computer science/C++",
+    "computer science/未命名.md",
     "test.md",
     "未命名.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
@@ -196,9 +203,6 @@
     "cs-self-learning-1.0.0/docs/数据科学",
     "cs-self-learning-1.0.0/docs/电子基础",
     "cs-self-learning-1.0.0/docs/编译原理",
-    "cs-self-learning-1.0.0/docs/深度学习",
-    "cs-self-learning-1.0.0/docs/人工智能",
-    "cs-self-learning-1.0.0/docs/软件工程",
     "game/未命名.md",
     "game/未命名222.md",
     "computer science/大学专业课考试/信息安全/头歌实验/标准acl.md",
@@ -218,10 +222,6 @@
     "daily/2022-12-04.md",
     "daily/2022-11-30.md",
     "daily/2022-10-25.md",
-    "daily/2022-09-28（人生思考）.md",
-    "daily/2022-09-20.md",
-    "账户/steam/steam外区账户.md",
-    "daily/2023-07-29.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
