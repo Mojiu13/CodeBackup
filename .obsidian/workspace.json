@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag",
+                "query": "path:\"重生只为赚钱/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6912e52787ba491",
+  "active": "5145219f8073732e",
   "lastOpenFiles": [
     "未命名.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
