@@ -11,8 +11,13 @@
             "id": "a6912e52787ba491",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"重生只为赚钱/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -175,8 +183,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5145219f8073732e",
+  "active": "a6912e52787ba491",
   "lastOpenFiles": [
+    "test.md",
     "未命名.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.en.md",
@@ -213,7 +222,6 @@
     "daily/2022-09-20.md",
     "账户/steam/steam外区账户.md",
     "daily/2023-07-29.md",
-    "人生积累/我想成为的人/实现.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
