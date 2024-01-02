@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6912e52787ba491",
+            "id": "61ff4818aa96ff32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/C++/c++ primer/第一章 开始.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/C++/c++ primer/第一章 开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer science/C++/c++ primer/第一章 开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer science/C++/c++ primer/第一章 开始.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,11 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "24fbd96613c0be19",
+  "active": "61ff4818aa96ff32",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "computer science/C++/c++ primer/第一章 开始.md",
+    "重生只为赚钱/正文",
+    "重生只为赚钱",
     "computer science/C++/c++ primer/第一章 开始",
     "近期日程安排/工作计划.md",
-    "computer science/C++/c++ primer/第一章 开始.md",
     "近期日程安排",
     "computer science/some website.md",
     "computer science/C++/c++ primer",
@@ -202,9 +195,6 @@
     "cs-self-learning-1.0.0/docs/系统安全",
     "cs-self-learning-1.0.0/docs/数学基础",
     "cs-self-learning-1.0.0/docs/体系结构",
-    "cs-self-learning-1.0.0/docs/数据科学",
-    "cs-self-learning-1.0.0/docs/电子基础",
-    "cs-self-learning-1.0.0/docs/编译原理",
     "game/未命名.md",
     "game/未命名222.md",
     "computer science/大学专业课考试/信息安全/头歌实验/标准acl.md",
@@ -231,7 +221,6 @@
     "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611212501.png",
     "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211134.png",
     "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211100.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211016.png",
-    "未命名.canvas"
+    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211016.png"
   ]
 }
