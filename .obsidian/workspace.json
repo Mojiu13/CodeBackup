@@ -11,8 +11,13 @@
             "id": "61ff4818aa96ff32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -177,6 +186,9 @@
   "active": "61ff4818aa96ff32",
   "lastOpenFiles": [
     "未命名.canvas",
+    "未命名.md",
+    "test.md",
+    "sdhf.md",
     "computer science/C++/c++ primer/第一章 开始.md",
     "重生只为赚钱/正文",
     "重生只为赚钱",
@@ -187,8 +199,6 @@
     "computer science/C++/c++ primer",
     "computer science/C++",
     "computer science/未命名.md",
-    "test.md",
-    "未命名.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.en.md",
     "cs-self-learning-1.0.0/docs/数学进阶",
@@ -212,7 +222,6 @@
     "daily/2023-01-28.md",
     "daily/2022-12-17（在考研前放弃了考研）.md",
     "daily/2022-12-04.md",
-    "daily/2022-11-30.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",

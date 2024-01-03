@@ -4,5 +4,7 @@
   "attachmentFolderPath": "./attachments",
   "readableLineLength": false,
   "showFrontmatter": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
