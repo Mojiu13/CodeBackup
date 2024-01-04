@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61ff4818aa96ff32",
+            "id": "c9f319c492db75ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Goal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Goal.md"
               }
             }
           },
@@ -183,10 +183,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61ff4818aa96ff32",
+  "active": "24fbd96613c0be19",
   "lastOpenFiles": [
-    "工作/方洲/pothos/安装教程.md",
+    "近期日程安排/工作计划.md",
+    "Goal.md",
     "未命名.md",
+    "工作/方洲/pothos/安装教程.md",
     "工作/方洲/pothos/目录.md",
     "工作/方洲/pothos",
     "工作/方洲",
@@ -198,7 +200,6 @@
     "人生积累/重生只为赚钱 1/正文",
     "人生积累/重生只为赚钱 1",
     "computer science/C++/c++ primer/第一章 开始",
-    "近期日程安排/工作计划.md",
     "近期日程安排",
     "computer science/some website.md",
     "computer science/C++/c++ primer",
@@ -222,7 +223,6 @@
     "daily/2022-07-05.md",
     "daily/2023-02-21 考研出分.md",
     "daily/2023-01-28.md",
-    "daily/2022-12-17（在考研前放弃了考研）.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
