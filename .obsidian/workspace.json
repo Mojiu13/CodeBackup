@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates联合.md",
+                "file": "工作/方洲/Helics/教程/Federates（联合).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates联合.md",
+                "file": "工作/方洲/Helics/教程/Federates（联合).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates联合.md",
+                "file": "工作/方洲/Helics/教程/Federates（联合).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates联合.md"
+                "file": "工作/方洲/Helics/教程/Federates（联合).md"
               }
             }
           },
@@ -200,7 +200,7 @@
   "active": "177ac59962c74a0e",
   "lastOpenFiles": [
     "工作/方洲/Helics/目录.md",
-    "工作/方洲/Helics/教程/Federates联合.md",
+    "工作/方洲/Helics/教程/Federates（联合).md",
     "工作/方洲/Helics/教程",
     "调研.md",
     "未命名 1.md",

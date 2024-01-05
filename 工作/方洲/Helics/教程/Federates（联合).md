@@ -1,0 +1,5 @@
+- # 什么是联邦
+	- [Federate]([Federates — HELICS documentation](https://docs.helics.org/en/latest/user-guide/fundamental_topics/federates.html))
+- # 联邦的类型（Type of Federates）
+	- value Federate 变量联合
+		- 
