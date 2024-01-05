@@ -8,5 +8,8 @@
   "calendar",
   "dataview",
   "remotely-save",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-pandoc",
+  "ProxyGithub",
+  "obsidian-enhancing-export"
 ]
