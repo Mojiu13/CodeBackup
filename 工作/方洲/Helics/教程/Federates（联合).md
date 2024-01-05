@@ -8,3 +8,7 @@
 		- value Federate模拟传播的信息是相关单位的物理量，模拟物理过程的Fererate必须为value Federate.
 	- value federate interfaces(接口)
 		- 三种不同的接口，区别在于接受发送，接收发送
+			- Publications：发送接口，可以用key定义权柄，可以用targets定义权柄
+			- Subscripitions：接收接口，不需要命名，数据来源用key指定
+			- Named Inputs：接收接口，用key命名句柄，数据来源句柄并非必须，但可以使用“命名输入”从多个目标接收数值
+		- 
