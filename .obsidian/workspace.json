@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "调研.md",
+                "file": "工作/方洲/Helics/教程/Federates联合.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "right": {
     "id": "e4d8ea4758eae2ea",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "调研.md",
+                "file": "工作/方洲/Helics/教程/Federates联合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "调研.md",
+                "file": "工作/方洲/Helics/教程/Federates联合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "调研.md"
+                "file": "工作/方洲/Helics/教程/Federates联合.md"
               }
             }
           },
@@ -199,11 +199,13 @@
   },
   "active": "177ac59962c74a0e",
   "lastOpenFiles": [
+    "工作/方洲/Helics/目录.md",
+    "工作/方洲/Helics/教程/Federates联合.md",
+    "工作/方洲/Helics/教程",
+    "调研.md",
     "未命名 1.md",
     "Goal.md",
-    "调研.md",
     "未命名",
-    "工作/方洲/Helics/目录.md",
     "工作/方洲/Helics",
     "近期日程安排/工作计划.md",
     "工作/方洲/pothos/安装教程.md",
@@ -220,7 +222,6 @@
     "computer science/C++/c++ primer/第一章 开始",
     "近期日程安排",
     "computer science/some website.md",
-    "computer science/C++/c++ primer",
     "computer science/未命名.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
     "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.en.md",
@@ -236,7 +237,6 @@
     "daily/2023-06-24.md",
     "daily/1A.md",
     "daily/1A考研.md",
-    "daily/2022-07-05.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
