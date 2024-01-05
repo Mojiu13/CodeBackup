@@ -2,4 +2,9 @@
 	- [Federate]([Federates — HELICS documentation](https://docs.helics.org/en/latest/user-guide/fundamental_topics/federates.html))
 - # 联邦的类型（Type of Federates）
 	- value Federate 变量联合
-		- 
+		- publication(pubs/发布)
+		- subscriptions(subs/订阅)
+	- value information 变量信息
+		- value Federate模拟传播的信息是相关单位的物理量，模拟物理过程的Fererate必须为value Federate.
+	- value federate interfaces(接口)
+		- 三种不同的接口，区别在于接受发送，接收发送
