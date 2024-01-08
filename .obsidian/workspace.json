@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "177ac59962c74a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作/方洲/Helics/教程/Federates（联合).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates（联合).md",
+                "file": "调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates（联合).md",
+                "file": "调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/方洲/Helics/教程/Federates（联合).md"
+                "file": "调研.md"
               }
             }
           },
@@ -197,54 +183,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "177ac59962c74a0e",
+  "active": "24fbd96613c0be19",
   "lastOpenFiles": [
-    "工作/方洲/Helics/目录.md",
+    "cs-self-learning-1.0.0/备注.md",
+    "cs-self-learning-1.0.0/docs/CS学习规划.md",
+    "cs-self-learning-1.0.0/docs/使用指南.md",
     "工作/方洲/Helics/教程/Federates（联合).md",
-    "工作/方洲/Helics/教程",
-    "调研.md",
-    "未命名 1.md",
-    "Goal.md",
-    "未命名",
-    "工作/方洲/Helics",
-    "近期日程安排/工作计划.md",
-    "工作/方洲/pothos/安装教程.md",
-    "工作/方洲/pothos/目录.md",
-    "工作/方洲/pothos",
-    "工作/方洲",
-    "工作",
+    "cs-self-learning-1.0.0/docs/软件工程/CS169.md",
+    "cs-self-learning-1.0.0/docs/软件工程/CS169.en.md",
+    "cs-self-learning-1.0.0/docs/软件工程/6031.md",
+    "cs-self-learning-1.0.0/docs/软件工程/6031.en.md",
+    "cs-self-learning-1.0.0/docs/软件工程",
+    "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.md",
+    "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.en.md",
+    "cs-self-learning-1.0.0/docs/计算机网络/topdown.md",
+    "cs-self-learning-1.0.0/docs/计算机网络/topdown.en.md",
+    "cs-self-learning-1.0.0/docs/计算机网络/CS144.md",
+    "cs-self-learning-1.0.0/docs/计算机网络/CS144.en.md",
+    "cs-self-learning-1.0.0/docs/计算机网络",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES202.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES202.en.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES103.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES103.en.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES101.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/GAMES101.en.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/CS148.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/CS148.en.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/15462.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学/15462.en.md",
+    "cs-self-learning-1.0.0/docs/计算机图形学",
+    "cs-self-learning-1.0.0/docs/编译原理/CS143.md",
+    "cs-self-learning-1.0.0/docs/编译原理/CS143.en.md",
+    "cs-self-learning-1.0.0/docs/编译原理",
+    "cs-self-learning-1.0.0/docs/编程语言设计与分析",
+    "cs-self-learning-1.0.0/docs/编程入门",
+    "cs-self-learning-1.0.0/docs/系统安全",
+    "cs-self-learning-1.0.0/docs/电子基础",
+    "cs-self-learning-1.0.0/docs/深度学习",
+    "cs-self-learning-1.0.0/docs/机器学习进阶",
+    "cs-self-learning-1.0.0/docs/images/title.png",
+    "cs-self-learning-1.0.0/docs/images/sponsor.png",
+    "cs-self-learning-1.0.0/docs/images/mobile_icon.png",
+    "cs-self-learning-1.0.0/docs/images/logo.png",
+    "cs-self-learning-1.0.0/docs/images/favicon16x16.png",
     "未命名.canvas",
-    "test.md",
-    "sdhf.md",
-    "computer science/C++/c++ primer/第一章 开始.md",
-    "人生积累/重生只为赚钱 1/正文",
-    "人生积累/重生只为赚钱 1",
-    "computer science/C++/c++ primer/第一章 开始",
-    "近期日程安排",
-    "computer science/some website.md",
-    "computer science/未命名.md",
-    "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md",
-    "cs-self-learning-1.0.0/docs/数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.en.md",
-    "game/未命名.md",
-    "game/未命名222.md",
-    "computer science/大学专业课考试/信息安全/头歌实验/标准acl.md",
-    "computer science/大学专业课考试/计算机图形学/实验/库的不共用特性.md",
-    "computer science/专业课/嵌入式系统/知识点/stm32命名规范总结.md",
     "computer science/专业课/经济学/attachments/Pasted image 20220618125908.png",
-    "大学基础知识/指导文件/考研数学.md",
-    "考研/未命名看板.md",
-    "人生积累/健身/哑铃全身锻炼.md",
-    "daily/2023-06-24.md",
-    "daily/1A.md",
-    "daily/1A考研.md",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170527.png",
     "大学基础知识/考试课程/高等数学/高等数学/思考/attachments/Pasted image 20221012170339.png",
     "大学基础知识/考试课程/高等数学/高等数学/attachments/Pasted image 20220921163714.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611212551.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611212527.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611212501.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211134.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211100.png",
-    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611211016.png"
+    "人生积累/健身/膝盖外翻/attachments/Pasted image 20230611212551.png"
   ]
 }
