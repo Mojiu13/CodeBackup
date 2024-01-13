@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "调研.md",
+                "file": "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "调研.md",
+                "file": "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "调研.md",
+                "file": "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "调研.md"
+                "file": "cs-self-learning-1.0.0/docs/必学工具/workflow.md"
               }
             }
           },
@@ -183,8 +183,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "24fbd96613c0be19",
+  "active": "c9f319c492db75ad",
   "lastOpenFiles": [
+    "cs-self-learning-1.0.0/docs/必学工具/GitHub.md",
+    "cs-self-learning-1.0.0/docs/必学工具/Git.md",
+    "cs-self-learning-1.0.0/docs/必学工具/信息检索.md",
+    "cs-self-learning-1.0.0/docs/必学工具/翻墙.md",
+    "cs-self-learning-1.0.0/docs/必学工具/翻墙.en.md",
+    "调研.md",
     "cs-self-learning-1.0.0/备注.md",
     "cs-self-learning-1.0.0/docs/CS学习规划.md",
     "cs-self-learning-1.0.0/docs/使用指南.md",
@@ -207,13 +213,7 @@
     "cs-self-learning-1.0.0/docs/计算机图形学/GAMES103.en.md",
     "cs-self-learning-1.0.0/docs/计算机图形学/GAMES101.md",
     "cs-self-learning-1.0.0/docs/计算机图形学/GAMES101.en.md",
-    "cs-self-learning-1.0.0/docs/计算机图形学/CS148.md",
-    "cs-self-learning-1.0.0/docs/计算机图形学/CS148.en.md",
-    "cs-self-learning-1.0.0/docs/计算机图形学/15462.md",
-    "cs-self-learning-1.0.0/docs/计算机图形学/15462.en.md",
     "cs-self-learning-1.0.0/docs/计算机图形学",
-    "cs-self-learning-1.0.0/docs/编译原理/CS143.md",
-    "cs-self-learning-1.0.0/docs/编译原理/CS143.en.md",
     "cs-self-learning-1.0.0/docs/编译原理",
     "cs-self-learning-1.0.0/docs/编程语言设计与分析",
     "cs-self-learning-1.0.0/docs/编程入门",
