@@ -11,14 +11,12 @@
             "id": "c9f319c492db75ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "未命名 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "未命名 1.md"
               }
             }
           },
@@ -187,8 +185,8 @@
   },
   "active": "c9f319c492db75ad",
   "lastOpenFiles": [
-    "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
     "未命名.canvas",
+    "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
     "cs-self-learning-1.0.0/docs/必学工具/CMake.md",
     "cs-self-learning-1.0.0/docs/必学工具/GNU_Make.md",
     "cs-self-learning-1.0.0/docs/必学工具/workflow.en.md",
