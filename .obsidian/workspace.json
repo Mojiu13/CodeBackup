@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md"
               }
             }
           },
@@ -185,6 +185,11 @@
   },
   "active": "c9f319c492db75ad",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
+    "计算机环境配置记录/mojiuTable/vcpkg",
+    "计算机环境配置记录/mojiuTable",
+    "计算机环境配置记录",
     "未命名.canvas",
     "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
     "cs-self-learning-1.0.0/docs/必学工具/CMake.md",
@@ -211,16 +216,12 @@
     "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.en.md",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown.md",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown.en.md",
-    "cs-self-learning-1.0.0/docs/计算机网络/CS144.md",
     "cs-self-learning-1.0.0/docs/计算机网络",
     "cs-self-learning-1.0.0/docs/计算机图形学",
     "cs-self-learning-1.0.0/docs/编译原理",
     "cs-self-learning-1.0.0/docs/编程语言设计与分析",
     "cs-self-learning-1.0.0/docs/编程入门",
     "cs-self-learning-1.0.0/docs/系统安全",
-    "cs-self-learning-1.0.0/docs/电子基础",
-    "cs-self-learning-1.0.0/docs/深度学习",
-    "cs-self-learning-1.0.0/docs/机器学习进阶",
     "cs-self-learning-1.0.0/docs/images/title.png",
     "cs-self-learning-1.0.0/docs/images/sponsor.png",
     "cs-self-learning-1.0.0/docs/images/mobile_icon.png",
