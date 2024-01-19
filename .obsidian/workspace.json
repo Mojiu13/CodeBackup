@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal.md",
+                "file": "工作/方洲/调研.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal.md",
+                "file": "工作/方洲/调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal.md",
+                "file": "工作/方洲/调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal.md"
+                "file": "工作/方洲/调研.md"
               }
             }
           },
@@ -185,9 +185,9 @@
   },
   "active": "c9f319c492db75ad",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "调研.md",
-    "Goal.md",
+    "工作/方洲/工作要求.md",
+    "工作/方洲/调研.md",
+    "TheGoal.md",
     "未命名.canvas",
     "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
     "计算机环境配置记录/MojiuTable/vcpkg",
