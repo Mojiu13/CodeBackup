@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
+                "file": "Goal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
+                "file": "Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
+                "file": "Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md"
+                "file": "Goal.md"
               }
             }
           },
@@ -186,11 +186,12 @@
   "active": "c9f319c492db75ad",
   "lastOpenFiles": [
     "未命名 1.md",
-    "计算机环境配置记录/mojiuTable/vcpkg/vcpkg.md",
-    "计算机环境配置记录/mojiuTable/vcpkg",
-    "计算机环境配置记录/mojiuTable",
-    "计算机环境配置记录",
+    "调研.md",
     "未命名.canvas",
+    "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
+    "计算机环境配置记录/MojiuTable/vcpkg",
+    "计算机环境配置记录/MojiuTable",
+    "计算机环境配置记录",
     "cs-self-learning-1.0.0/docs/必学工具/workflow.md",
     "cs-self-learning-1.0.0/docs/必学工具/CMake.md",
     "cs-self-learning-1.0.0/docs/必学工具/GNU_Make.md",
@@ -202,7 +203,6 @@
     "cs-self-learning-1.0.0/docs/必学工具/信息检索.md",
     "cs-self-learning-1.0.0/docs/必学工具/翻墙.md",
     "cs-self-learning-1.0.0/docs/必学工具/翻墙.en.md",
-    "调研.md",
     "cs-self-learning-1.0.0/备注.md",
     "cs-self-learning-1.0.0/docs/CS学习规划.md",
     "cs-self-learning-1.0.0/docs/使用指南.md",
@@ -215,7 +215,6 @@
     "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.md",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.en.md",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown.md",
-    "cs-self-learning-1.0.0/docs/计算机网络/topdown.en.md",
     "cs-self-learning-1.0.0/docs/计算机网络",
     "cs-self-learning-1.0.0/docs/计算机图形学",
     "cs-self-learning-1.0.0/docs/编译原理",
