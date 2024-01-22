@@ -20,7 +20,7 @@ boost:x64-windows@1.83.0#1
   * boost-yap:x64-windows@1.83.0
   * openssl:x64-windows@3.2.0#2
   * pkgconf:x64-windows@2.1.0
-  * python3:x64-windows@3.11.5#4
+  * python3:x64-windows@3.11.5#4====
   * sqlite3[core,json1]:x64-windows@3.43.2#1
   * vcpkg-msbuild:x64-windows@2023-08-08
   * vcpkg-pkgconfig-get-modules:x64-windows@2023-09-06
