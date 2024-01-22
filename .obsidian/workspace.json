@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb6c5a4e09bdc921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机环境配置记录/MojiuTable/vcpkg/temp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
+                "file": "计算机环境配置记录/MojiuTable/vcpkg/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
+                "file": "计算机环境配置记录/MojiuTable/vcpkg/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md"
+                "file": "计算机环境配置记录/MojiuTable/vcpkg/temp.md"
               }
             }
           },
@@ -183,13 +197,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9f319c492db75ad",
+  "active": "fb6c5a4e09bdc921",
   "lastOpenFiles": [
+    "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
+    "计算机环境配置记录/MojiuTable/vcpkg/temp.md",
     "工作/方洲/调研.md",
     "工作/方洲/工作要求.md",
     "TheGoal.md",
     "未命名.canvas",
-    "计算机环境配置记录/MojiuTable/vcpkg/vcpkg.md",
     "计算机环境配置记录/MojiuTable/vcpkg",
     "计算机环境配置记录/MojiuTable",
     "计算机环境配置记录",
@@ -215,7 +230,6 @@
     "cs-self-learning-1.0.0/docs/软件工程",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.md",
     "cs-self-learning-1.0.0/docs/计算机网络/topdown_ustc.en.md",
-    "cs-self-learning-1.0.0/docs/计算机网络/topdown.md",
     "cs-self-learning-1.0.0/docs/计算机网络",
     "cs-self-learning-1.0.0/docs/计算机图形学",
     "cs-self-learning-1.0.0/docs/编译原理",
