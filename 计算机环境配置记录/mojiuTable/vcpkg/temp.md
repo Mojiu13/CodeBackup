@@ -25,3 +25,6 @@ boost:x64-windows@1.83.0#1
   * vcpkg-msbuild:x64-windows@2023-08-08
   * vcpkg-pkgconfig-get-modules:x64-windows@2023-09-06
   * vcpkg-tool-meson:x64-windows@0.63#2
+
+
+vcpkg install boost --exclude=boost-parameter-python,boost-python[core,python3]
